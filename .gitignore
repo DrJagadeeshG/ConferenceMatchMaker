@@ -1,2 +1,6 @@
 env/
-env/
+*.dylib
+*.so
+*.pt
+*.onnx
+*.ckpt
