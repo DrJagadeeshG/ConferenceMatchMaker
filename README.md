@@ -3,6 +3,8 @@
 
 **ConferenceMatchMaker** is a smart tool designed for academic conferences like the **EGU General Assembly**, where thousands of researchers submit abstracts and want to connect with peers working on similar topics. This project aims to simplify the **matchmaking process** by scraping all publicly available abstracts and using NLP-based similarity matching to help researchers find potential collaborators before or during the conference.
 
+## Running website
+**https://conferencematchmaker.streamlit.app/**
 ---
 
 ## 📌 Features
